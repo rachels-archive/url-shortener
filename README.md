@@ -1,4 +1,5 @@
 # URL Shortener
+![Screenshot](https://github.com/rachels-archive/url-shortener/assets/79963756/b441d5d5-4941-481e-aff9-a6917d03618c)
 
 This is a simple URL shortener application built with Express.js and MongoDB. It allows users to shorten long URLs into more manageable short links.
 
